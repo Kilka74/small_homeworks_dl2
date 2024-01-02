@@ -1,0 +1,1 @@
+This repositry contains all small homeworks (object detection, graph NN, transformers, diffusion) from the course "Deep Learning 2"
